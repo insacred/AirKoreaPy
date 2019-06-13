@@ -111,3 +111,5 @@ lib/
 include/
 .idea/
 pip-selfcheck.json
+api_key
+main.py
